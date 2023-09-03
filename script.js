@@ -58,6 +58,14 @@ let eight = parseFloat ( prompt("Enter your gpa in 8th sem."));
 
 */
 
+/*function sum(a,b){
+    let add = a+b;
+    return add;
+}
+console.log(sum(5,10));
+*/
+
+
 
 
 
