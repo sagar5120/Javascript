@@ -64,6 +64,14 @@ let eight = parseFloat ( prompt("Enter your gpa in 8th sem."));
 }
 console.log(sum(5,10));
 */
+var age = parseInt(prompt("Enter your age"));
+if (age<=18){
+    console.log(`you are not eligible for voting`);
+}
+else{
+    console.log(`you are eligible for voting`);
+
+}
 
 
 
